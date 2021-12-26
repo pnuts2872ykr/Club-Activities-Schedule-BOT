@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/pnuts2872ykr/Club-Activities-Schedule-BOT/master/img/top.png?token=AUNG3IZ5N4IRX5EY4FG523DB2ENWI" height=100 />
+<img src="https://raw.githubusercontent.com/pnuts2872ykr/Club-Activities-Schedule-BOT/master/img/top.png?token=AUNG3IZ5N4IRX5EY4FG523DB2ENWI">
 </h3>
 
 # 部活の予定表BOTちゃん
